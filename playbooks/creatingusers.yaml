@@ -7,9 +7,9 @@
      user:
       name: "{{item}}"
       with-items:
-       - har
-       - gur
-       - yoges 
-       - chitt
-       - harjee
+       - hari
+       - guru
+       - yogesh 
+       - chitti
+       - harjeet
 ...
